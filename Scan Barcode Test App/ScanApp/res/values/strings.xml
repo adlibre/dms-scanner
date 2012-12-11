@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ScanAppActivity!</string>
+    <string name="app_name">ScanApp</string>
+    <string name="prefs_file">Preferences file</string>
+    <string name="reg_string">Registation str</string>
+    <string name="json_qr">Json qr</string>
+    <string name="notification_enabled">Notification Enabled</string>
+    <string name="result_failed">No barcode found</string>
+    <string name="result_failed_why">"The user gave up and pressed Back"</string>
+    <string name="result_succeeded">Found barcode</string>
+
+</resources>

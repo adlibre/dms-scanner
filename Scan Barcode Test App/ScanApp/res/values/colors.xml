@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white_color">#FFFFFF</color>
+    <color name="grey_color">#d1d0d0</color>
+    <color name="red_text_color">#bd321e</color>
+    <color name="green_text_color">#0c9d01</color>
+    <color name="darker_gray">#b1b1b1</color>
+    <color name="rose_color">#f2d6d2</color>
+    <color name="blue">#095099</color>
+    <color name="blue_light">#afe4fd</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="transparent_gray">#A0c2c2bb</color>
+    <color name="yellow_color">#e0ac14</color>
+    <color name="white_button_color">#ffffff</color>
+    <color name="dark_gray_colot">#474645</color>
+</resources>
